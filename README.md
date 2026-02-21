@@ -1,0 +1,1 @@
+An Artificial Neural Network–based model designed to predict customer churn by analyzing  customer data and behavioral patterns. This project demonstrates data preprocessing, model training, and evaluation.
